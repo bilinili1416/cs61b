@@ -11,7 +11,7 @@ import static com.google.common.truth.Truth.assertThat;
 public class ArithmeticTest {
 
     /** Performs a few arbitrary tests to see if the product method is
-     * correct */
+     * correct /
     @Test
     @Order(0)
     @DisplayName("Test product correctness")
